@@ -47,20 +47,6 @@ To run the project locally, follow these steps:
 - **Vite:** ^5.1.4
 - **Tailwind CSS:** ^3.4.1
 
-## Folder Structure 📂
-
-Fintech-Landing-Page/
-│
-└── bank_modern_app/ # Bank Modern App source code
-├── src/ # Source code files
-├── public/ # Public assets and HTML file
-└── ... # Other project files
-
-├── .gitignore # Git ignore file
-├── package.json # Project configuration file
-├── README.md # Project documentation
-
-
 ## Contributing 🤝
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
