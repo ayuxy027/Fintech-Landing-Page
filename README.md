@@ -1,4 +1,4 @@
-# Fintech Landing Page - Bank Modern App
+# Fintech Landing Page - Bank Modern App 🚀
 
 Welcome to the Bank Modern App within the Fintech Landing Page project! This application is built using React, Vite, and Tailwind CSS, providing a modern development environment for building fast and efficient web applications.
 
@@ -11,7 +11,7 @@ Welcome to the Bank Modern App within the Fintech Landing Page project! This app
 - [Contributing](#contributing)
 - [License](#license)
 
-## Getting Started
+## Getting Started 🛠️
 
 To run the project locally, follow these steps:
 
@@ -41,45 +41,31 @@ To run the project locally, follow these steps:
 
     The application will be available at [http://localhost:3000](http://localhost:3000).
 
-## Available Scripts
-
-In the project directory, you can run the following npm scripts:
-
-- `npm run dev`: Starts the development server.
-- `npm run build`: Builds the production-ready application.
-- `npm run lint`: Lints the project using ESLint.
-- `npm run preview`: Previews the production build locally.
-
-## Tech Stack
+## Tech Stack ⚙️
 
 - **React:** ^18.2.0
 - **Vite:** ^5.1.4
 - **Tailwind CSS:** ^3.4.1
 
-## Folder Structure
+## Folder Structure 📂
 
 Fintech-Landing-Page/
 │
-├── bank_modern_app/ # Bank Modern App source code
-│ ├── src/ # Source code files
-│ ├── public/ # Public assets and HTML file
-│ └── ... # Other project files
-│
+└── bank_modern_app/ # Bank Modern App source code
+├── src/ # Source code files
+├── public/ # Public assets and HTML file
+└── ... # Other project files
+
 ├── .gitignore # Git ignore file
 ├── package.json # Project configuration file
 ├── README.md # Project documentation
 
 
-css
-Copy code
-
-## Contributing
+## Contributing 🤝
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## License 📄
 
 Feel free to explore the `src` directory for React components and other source code.
 
