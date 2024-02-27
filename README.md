@@ -2,15 +2,6 @@
 
 Welcome to the Bank Modern App within the Fintech Landing Page project! This application is built using React, Vite, and Tailwind CSS, providing a modern development environment for building fast and efficient web applications.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Available Scripts](#available-scripts)
-- [Tech Stack](#tech-stack)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Getting Started 🛠️
 
 To run the project locally, follow these steps:
