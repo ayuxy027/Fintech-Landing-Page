@@ -42,8 +42,4 @@ To run the project locally, follow these steps:
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License 📄
-
-Feel free to explore the `src` directory for React components and other source code.
-
 Happy coding! 🚀
